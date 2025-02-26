@@ -24,8 +24,8 @@ $d_2 = d_1 - \sigma \sqrt{T}$
 ## Forward Contracts
 
 Much simpler pricing. \
-$s_0 * e^{r * T}$ \
-where: \ 
+$s_0 * e^{rT}$ \
+where:  
 $s_0$ is the current spot price. \
 $r$ is the risk free rate \
 $T$ is time to exercise. 
